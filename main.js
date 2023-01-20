@@ -1,10 +1,10 @@
 const socialMediaUser = {
     //Change information inside this Object to test the application for yourself :)
     github : "yThxz",
-    youTube : "UCn-culTnIuaFNeYw743lBGw",
+    youTube : "@rocketseat",
     instagram : "__balbuenaa/",
-    facebook : "ThiagoBalbuena.2004",
-    twitter : "yThigszz"       
+    facebook : "rocketseat",
+    twitter : "rocketseat"       
 }
 function changeSocialMediaLinks(){
    for(let li of socialLinks.children){
